@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-%this 2nd file% 
-
-updating the file
-=======
-%this 2nd file% and this is third file
->>>>>>> 329015bcacb669878547af4a31910a1ec90460d0
